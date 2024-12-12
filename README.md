@@ -4,4 +4,9 @@
 
 A detailed report can be access from LBM_Report.pdf within the repository. 
 
-![Water Drop LBM Simulation](./lbm_plots/simulation.gif =250x)
+<img src="./lbm_plots/simulation.gif" alt="drawing" style="width:200px;"/>
+
+
+![Water Drop LBM Simulation](./lbm_plots/simulation.gif)
+
+
